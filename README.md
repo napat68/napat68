@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm **Napatprapa Kulsuttisatien**
+I'm Napatprapa Kulsuttisatien🐈
 
 ## 📚 การศึกษา
 - **ปริญญาตรี**: Software Engineering-RMUTL
